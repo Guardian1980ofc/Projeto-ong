@@ -1,0 +1,9 @@
+RELATÓRIO DO SISTEMA - 2025-12-02
+========================================
+
+DOADORES: 0 cadastrados
+DOAÇÕES: 0 registradas
+TOTAL ARRECADADO: R$ 0,00
+
+========================================
+Relatório gerado automaticamente pelo sistema.

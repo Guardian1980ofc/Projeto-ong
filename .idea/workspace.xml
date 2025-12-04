@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="871189f3-4f54-4597-a2fa-78716d6eedab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto poo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/DoacaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/CPFDuplicadoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/DadosInvalidosException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/RegistroNaoEncontradoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gerenciador/GerenciadorDoacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gerenciador/GerenciadorDoadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gerenciador/GerenciadorFuncionarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gerenciador/GerenciadorIdosos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Doacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Doador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Idoso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Turnos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaCadastroDoacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaCadastroDoador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaCadastroFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaCadastroIdoso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaListagemDoacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaListagemDoadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaListagemFuncionarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaListagemIdosos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TelaRelatorios.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="36J4DKQCNV607VzCnHRJNcYAymT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Edoardo/OneDrive/Workspace/Projeto poo/Projeto poo (atualixado)/Projeto poo/Projeto poo",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Projeto poo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="871189f3-4f54-4597-a2fa-78716d6eedab" name="Changes" comment="" />
+      <created>1764711219528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764711219528</updated>
+    </task>
+    <servers />
+  </component>
+</project>
